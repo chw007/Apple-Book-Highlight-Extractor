@@ -1,4 +1,4 @@
-# Apple Books Highlight Extractor
+# Apple Books Highlights Extractor
 
 A Python tool for extracting and exporting notes/highlights from Apple Books. Supports filtering by book title and exports results in Markdown format.
 
